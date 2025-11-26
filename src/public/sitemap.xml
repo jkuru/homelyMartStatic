@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://homelymart.com/</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Products Section -->
+  <url>
+    <loc>https://homelymart.com/#products</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://homelymart.com/products/aashirvaad-atta.png</image:loc>
+      <image:title>Aashirvaad Atta - Superior MP Atta</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://homelymart.com/products/amul-chocolate.png</image:loc>
+      <image:title>Amul Milk Chocolate</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://homelymart.com/products/fogg-body-spray.png</image:loc>
+      <image:title>Fogg Body Spray</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://homelymart.com/products/premier-tissues.png</image:loc>
+      <image:title>Premier Tissues</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://homelymart.com/products/nestle-nan-pro.png</image:loc>
+      <image:title>Nestlé NAN PRO 3</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://homelymart.com/products/kitkat.png</image:loc>
+      <image:title>KitKat Chocolate</image:title>
+    </image:image>
+  </url>
+  
+  <!-- How to Order Section -->
+  <url>
+    <loc>https://homelymart.com/#order</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://homelymart.com/#contact</loc>
+    <lastmod>2025-11-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
