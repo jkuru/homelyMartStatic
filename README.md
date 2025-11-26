@@ -1,13 +1,3 @@
-It is **not quite correct** yet. If you save it exactly as is, the code snippets (like `npm install`) will blend into the regular text, and the directory tree might look scrambled because it isn't using a fixed-width font. Also, Step 2 has the wrong title.
-
-Here are the specific issues:
-
-1.  **Missing Code Blocks:** Commands need triple backticks (\`\`\`) around them so they look like code.
-2.  **Wrong Heading in Step 2:** It says "Install dependencies" again, but the command is `npm run build`.
-3.  **Directory Tree:** Needs a code block to preserve the indentation.
-
-Here is the **corrected version** that you can copy and paste:
-
 ````markdown
 # Homely Mart – Static Website
 
@@ -67,7 +57,4 @@ firebase deploy --only hosting --project <project-alias>
 > **Note:** The `firebase.json` file should be located in the `firebase/` folder.
 
 ```
-
-### Next Step
-Would you like me to give you the terminal command to overwrite your file with this corrected version?
 ```
